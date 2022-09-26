@@ -1,0 +1,71 @@
+h1 {
+    text-align: center;
+}
+nav {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+}
+h3 {
+    font-size: 24px;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    ;
+}
+
+body{
+    background-color: rgb(209, 245, 153);
+}
+div{
+    margin-top: 100px;
+    
+}
+table, th, td {
+    border: 1px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    box-sizing: border-box;
+    
+    
+}
+article {
+    margin-top: 100px;
+}
+article:hover{
+    color: blue;
+}
+.shrike {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.Stork {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.thrasher{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    
+}
+p {
+    font-size: 20px;
+}
+h4 {
+    margin-top: 100px;
+    font-size: 18px;
+}
+video{
+    height: 500px;
+}
+audio {
+    box-shadow: 10px 10px 5px gray;
+    
+}
